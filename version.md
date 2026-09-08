@@ -1,6 +1,6 @@
 # Versão — CNPJ
 
-**Versão atual:** `0.1.8`
+**Versão atual:** `0.1.9`
 
 Base e utilidades de consulta de CNPJ.
 
